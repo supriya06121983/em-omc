@@ -80,6 +80,6 @@ To Do
 You may now proceed to the [next lab](#next).
 
 ## Acknowledgements
-* **Author** - Supriya Joshi, OCI Logging Analytics
+* **Author** - Supriya Joshi, OCI Log Analytics
 * **Contributors** -  Supriya Joshi, Jolly Kundu, Kumar Varun, Royce Fu
 * **Last Updated By/Date** - Supriya Joshi, Jul, 2025

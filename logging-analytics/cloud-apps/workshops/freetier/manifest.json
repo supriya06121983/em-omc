@@ -13,6 +13,11 @@
             "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2.md"
         },
         {
+            "title": "Lab 0:  Introduction to Log Explorer",
+            "description": "This live labs outlines about the log explorer",
+            "filename": "../../introduction-log-explorer/introduction-log-explorer.md"
+        },
+        {
             "title": "Lab 1:  Understanding Lab Flow, Functional, and Technical Architecture",
             "description": "",
             "filename": "../../understanding-flow/understanding-flow.md"
