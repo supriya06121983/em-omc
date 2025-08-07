@@ -3,6 +3,12 @@
 ## Introduction
 
 This lab walks you through Log Explorer in OCI Console and various sections within it.
+OCI Log Explorer is a visual interface in OCI Log Analytics used to:
+    - Search and analyze log data.
+    - Apply filters and queries.
+    - Use visualizations like timelines, bar charts, and tables.
+    
+   To understand more about Log Explorer refer  [documentation](https://docs.oracle.com/en-us/iaas/log-analytics/doc/visualize-data-using-charts-and-controls.html#GUID-93988D5B-9717-4F63-8362-16B08BC3E020__SECTION_OL5_STR_V5B).
 
 Estimated Time: 5 minutes
 
@@ -24,14 +30,6 @@ In this lab, you will learn to
 
 
 ## Task 2: Learn different section of Log Explorer
-
-OCI Log Explorer is a visual interface in OCI Logging Analytics used to:
-    - Search and analyze log data.
-    - Apply filters and queries.
-    - Use visualizations like timelines, bar charts, and tables.
-    - Debug issues across applications and infrastructure.
-    
- To understand more about Log Explorer refer  [documentation](https://docs.oracle.com/en-us/iaas/log-analytics/doc/visualize-data-using-charts-and-controls.html#GUID-93988D5B-9717-4F63-8362-16B08BC3E020__SECTION_OL5_STR_V5B).
 
 - The different sections of Log Explorer are 
  ![log-explorer-section](images/log-explorer-section.jpg)
