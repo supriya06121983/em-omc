@@ -15,14 +15,23 @@ In this lab, you will learn to
 
 ## Task 1: Navigate to Log Explorer in OCI Console
 
- 1. The Log Analytics service is available from the top level OCI console menu.
+  1. The Log Analytics service is available from the top level OCI console menu.
    ![top-level](images/top-level-hamburger-menu.jpg) 
  
  2.  Navigate to Observability & Management and click Log Explorer within Log Analytics. 
     ![log-explorer](images/log-explorer.jpg)
 
 
+
 ## Task 2: Learn different section of Log Explorer
+
+OCI Log Explorer is a visual interface in OCI Logging Analytics used to:
+    - Search and analyze log data.
+    - Apply filters and queries.
+    - Use visualizations like timelines, bar charts, and tables.
+    - Debug issues across applications and infrastructure.
+    
+ To understand more about Log Explorer refer  [documentation](https://docs.oracle.com/en-us/iaas/log-analytics/doc/visualize-data-using-charts-and-controls.html#GUID-93988D5B-9717-4F63-8362-16B08BC3E020__SECTION_OL5_STR_V5B).
 
 - The different sections of Log Explorer are 
  ![log-explorer-section](images/log-explorer-section.jpg)
