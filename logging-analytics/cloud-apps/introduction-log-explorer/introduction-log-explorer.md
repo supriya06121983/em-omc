@@ -24,7 +24,7 @@ In this lab, you will learn to
   1. The Log Analytics service is available from the top level OCI console menu.
    ![top-level](images/top-level-hamburger-menu.jpg) 
  
- 2.  Navigate to Observability & Management and click Log Explorer within Log Analytics. 
+ 2.  Navigate to Observability & Management and click Log Explorer within Log Analytics.  
     ![log-explorer](images/log-explorer.jpg)
 
 
